@@ -1,0 +1,10 @@
+<wpml-config>
+    <admin-texts>
+        <key name="woocommerce_pp_enabled" />
+        <key name="woocommerce_pp_title" />
+        <key name="woocommerce_pp_description" />
+        <key name="woocommerce_pp_cardholder_name" />
+        <key name="woocommerce_pp_cardholder_ssn" />
+        <key name="woocommerce_pp_card_number" />
+    <admin-texts>
+</wpml-config>

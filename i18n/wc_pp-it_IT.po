@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce PostePay 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-07 09:31+0100\n"
+"PO-Revision-Date: 2014-04-07 09:31+0100\n"
+"Last-Translator: Nicola Mustone <mustone.nicola@gmail.com>\n"
+"Language-Team: Nicola Mustone <mustone.nicola@gmail.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class.wc-pp.php:44 classes/class.wc-pp.php:71
+msgid "PostePay"
+msgstr "PostePay"
+
+#: classes/class.wc-pp.php:72
+msgid "Have your customers pay charging your PostePay."
+msgstr "Accetta ricariche PostePay come metodo di pagamento."
+
+#: classes/class.wc-pp.php:87
+msgid "Enable/Disable"
+msgstr "Abilita/Disabilita"
+
+#: classes/class.wc-pp.php:89
+msgid "Enable PostePay"
+msgstr "Abilita PostePay"
+
+#: classes/class.wc-pp.php:93
+msgid "Title"
+msgstr "Titolo"
+
+#: classes/class.wc-pp.php:95
+msgid "This controls the title which the user sees during checkout"
+msgstr "Modifica il titolo che vede l'utente quando completa l'acquisto"
+
+#: classes/class.wc-pp.php:96
+msgid "Charge PostePay"
+msgstr "Ricarica PostePay"
+
+#: classes/class.wc-pp.php:100
+msgid "Customer Message"
+msgstr "Messaggio al cliente"
+
+#: classes/class.wc-pp.php:102
+msgid "Pay your order charging our PostePay."
+msgstr "Paga il tuo ordine ricaricando la nostra PostePay."
+
+#: classes/class.wc-pp.php:105 classes/class.wc-pp.php:164
+msgid "Cardholder's Name"
+msgstr "Nome dell'intestatario"
+
+#: classes/class.wc-pp.php:107
+msgid "John Doe"
+msgstr "Mario Rossi"
+
+#: classes/class.wc-pp.php:110 classes/class.wc-pp.php:165
+msgid "Cardholder's SSN"
+msgstr "C.F. dell'intestatario"
+
+#: classes/class.wc-pp.php:112
+msgid "Your SSN may be needed to charge the card."
+msgstr ""
+"Il tuo Codice Fiscale potrebbe essere necessario per effettuare la ricarica "
+"della carta."
+
+#: classes/class.wc-pp.php:116 classes/class.wc-pp.php:166
+msgid "Card number"
+msgstr "Numero carta"
+
+#: classes/class.wc-pp.php:118
+msgid "Write the complete card number without spaces or any other sign."
+msgstr "Scrivi il numero completo della carta senza spazi o altri segni."
+
+#: classes/class.wc-pp.php:119
+msgid "4023000000000000"
+msgstr "4023000000000000"
+
+#: classes/class.wc-pp.php:135
+msgid "Awaiting PostePay charge"
+msgstr "In attesa della ricarica PostePay"
+
+#: classes/class.wc-pp.php:159
+msgid "Our Details"
+msgstr "I nostri Dettagli"
+
+#: woocommerce-postepay.php:70
+msgid "Settings"
+msgstr "Impostazioni"
+
+# @ wc_pgec
+#: woocommerce-postepay.php:72
+msgid "Donate"
+msgstr "Fai una donazione"
+
+#~ msgid "Card Number"
+#~ msgstr "Numero carta"
+
+#~ msgid "Cash on pickup"
+#~ msgstr "Pagamento in contanti"
+
+#~ msgid "Cash on Pickup"
+#~ msgstr "Pagamento in contanti"
+
+#~ msgid "Enable Cash On Pickup"
+#~ msgstr "Abilita Pagamento in contanti"
+
+#~ msgid "Instructions that will be added to the thank you page."
+#~ msgstr "Instruzioni che saranno aggiunta alla pagina di ringraziamento."
+
+#~ msgid "Pay with cash on pickup at [Store address]."
+#~ msgstr ""
+#~ "Paga il tuo ordine in contanti ritirandolo al nostro negozio in "
+#~ "[Indirizzo negozio]."
